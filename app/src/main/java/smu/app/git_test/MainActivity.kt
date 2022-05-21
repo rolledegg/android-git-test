@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val textview = findViewById<TextView>(R.id.tv)
-        textview.text = "Changed in Kotlin"
+        //textview.text = "Changed in Kotlin"
     }
 }
