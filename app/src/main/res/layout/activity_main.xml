@@ -26,6 +26,6 @@
         android:textColor="@color/white"
         android:textSize="20sp"
         android:layout_gravity="center"
-        android:text="add sth"/>
+        android:text="This is line 1"/>
 
 </LinearLayout>
