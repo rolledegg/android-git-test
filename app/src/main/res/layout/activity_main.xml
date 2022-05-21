@@ -45,5 +45,14 @@
         android:textSize="20sp"
         android:layout_gravity="center"
         android:text="This is line 3"/>
+    <TextView
+        android:id="@+id/tv5"
+        android:paddingTop="10sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/red"
+        android:textSize="10sp"
+        android:layout_gravity="center"
+        android:text="중간에 있는 커밋을 지웠을 때 어떻게 되는지 테스트하기 위한 커밋과 tv들입니다."/>
 
 </LinearLayout>
