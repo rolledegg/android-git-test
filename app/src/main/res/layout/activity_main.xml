@@ -26,6 +26,7 @@
         android:textSize="20sp"
         android:layout_gravity="center"
         android:text="add sth"/>
+    
     <TextView
         android:id="@+id/tv3"
         android:paddingTop="5sp"
@@ -35,7 +36,7 @@
         android:textSize="20sp"
         android:layout_gravity="center"
         android:text="This is line 2"/>
-    
+
     <TextView
         android:id="@+id/tv4"
         android:paddingTop="5sp"
