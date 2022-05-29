@@ -17,6 +17,7 @@
         android:layout_gravity="center"
         android:textSize="30sp"
         android:text="Master Branch" />
+    
     <TextView
         android:id="@+id/tv2"
         android:paddingTop="5sp"
@@ -26,7 +27,7 @@
         android:textSize="20sp"
         android:layout_gravity="center"
         android:text="add sth"/>
-    
+
     <TextView
         android:id="@+id/tv3"
         android:paddingTop="5sp"
