@@ -18,7 +18,7 @@
         android:textSize="30sp"
         android:text="Master Branch" />
 
-    
+
 
     <TextView
         android:id="@+id/tv2"
